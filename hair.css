@@ -1,0 +1,44 @@
+h1, h2, p{
+    text-align: center;
+}
+#salon{
+    width: 500px;
+    background-color: burlywood;
+    margin: auto;
+    padding: 20px;
+    max-width: 500px;
+}
+body{
+    background-image: url(https://media.istockphoto.com/id/1449594633/photo/shivani.jpg?s=1024x1024&w=is&k=20&c=y3-q4Q_NpEGl2ItdnCRw2awyoU2v4xv4Q2GowPzURqs=);
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+.hair p{
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    /* border: 1px solid black; */
+}
+.style, .lowcut{
+    text-align: left;
+    width: 75%;
+}
+.price{
+    text-align: center;
+    width: 25%;
+}
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.plea{
+    font-family: italic, sans-serif;
+}
+hr{
+    height: 3px;
+    background-color: black;
+    border-color: black;
+}
+.address{
+    text-align: center;
+    font-style: italic;
+}
